@@ -1,0 +1,24 @@
+.card-body {
+  width: 400px;
+  transition: transform 0.2s; /* Animation */
+}
+.card-body:hover {
+  transform: scale(1.5);
+}
+.card-title {
+  color: #0c946c;
+  font-weight: bold;
+}
+.col-md-6 img {
+  margin-left: 130px;
+}
+.card-body h5 {
+  margin-top: 5px;
+  text-align: center;
+}
+.card-text {
+  text-align: center;
+}
+.row {
+  margin-left: 85px;
+}

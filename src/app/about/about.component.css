@@ -1,0 +1,17 @@
+img {
+  width: 350px;
+  margin-left: 20%;
+  margin-top: 100px;
+  float: left;
+  border-radius: 10px;
+}
+.row {
+  position: relative;
+}
+img {
+  border: 5px solid #0c946c;
+  box-shadow: 10px 10px 5px #ccc;
+  -moz-box-shadow: 10px 10px 5px #ccc;
+  -webkit-box-shadow: 10px 10px 5px #ccc;
+  -khtml-box-shadow: 10px 10px 5px #ccc;
+}
